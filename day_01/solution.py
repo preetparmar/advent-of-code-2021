@@ -1,5 +1,5 @@
 # Importing data
-with open('./resources/day_01.txt') as input:
+with open('day_01/data.txt') as input:
     input_values = [int(x) for x in input.read().split()]
 
 # Part 1 solution
