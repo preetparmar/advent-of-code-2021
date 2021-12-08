@@ -8,7 +8,6 @@ forward 2'''
 
 
 
-input_data
 
 
 
